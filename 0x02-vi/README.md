@@ -1,0 +1,1 @@
+is a program that falls into the category of text editors, because unlike a word processor it does not offer tools to visually determine how the printed document will look
